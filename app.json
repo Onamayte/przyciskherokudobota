@@ -1,0 +1,7 @@
+{
+    "name": "Bot 2137",
+    "description": "Bot na skamingowe krulestwo",
+    "repository": "https://github.com/Nubet/PapiezowyBot",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
